@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "redsocialpoli-255923",
+  "private_key_id": "3eea48fdccca1ccef0b691724d126dfb695d2733",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCbaKKsFVtMyXo2\nFzW8lCDgNgEv5XtQ+4rKZaa4EJ2DndLWeF3ULT9///iIAeZAQSlGLNbYAZH942GS\np+I17z4vD99M0tZo35MBWrhJSUWew4ForSlne0HxLTg695Jl7PA3RFGE5tLkmCKJ\n4QjwJZpFlqvzHZ1YJu13SfE/x0rbYQTekNpYrLlaovgWSRQLdUFto+PXbhD7Pp9m\n1NDl9mkNLcICFl/jlcoKjbryT2bHGWLWGVowarmMG0K23RmhVxoQQssvZNT+nibj\nIIhAj7Ai6r6mxuy45sXt0/Lo52auOD9hf/qthLrEb69jDiXftfYx5K18ojBCSggw\nu+5cfYOzAgMBAAECggEAFBy/DLk41x+t/skTLcQX2xxyG+I9itX6+MWeBW01DV8D\n9bifIAH5GVYlsmhYhZFJR6ku5saRP8PJEWNDvcooCIwr0HPqxqjEjCTS+70NUwYn\nPcZHOPq1JoK9J7h5jFJVJjnjuOjseyQLOD/U2ctsAzyEJVL8VXe4PLtniuL+V5Sr\nmJaxmHQ9n+s+tqJtN/1wPwUQVWPh7FitSHv/ZXvuPnFQlUOA5ipQWc+LmMCzqXyR\nhjbdAqkYtWP9Ew4gwVd9COg0F8SjuSrdZ6FoAgn22Sw57+V9qFuRPyXidbISvAwF\ntOfMPxs9FceViwOFVAaI2Cr56JSMVxPlSmwKLnqIuQKBgQDM/pR0VXRNq0Cuz2Ae\nHwH9r9btDQ/rjoKK8jocLUId9//4BDY5XKcLrwuAmiaV68zTXYyPWs7AnvrrmYZD\n8UC54EmW7eb5bdWexA4ybxc6yDvRhK6T1/NNMoqHn/ZQuUDH23XYrnbfDW8R5noa\nHchwzu1s+7pe2gkNnQ5m8CQoWwKBgQDCE57x/5p0KWtKvpkKIkcJ9OfzzcHBwKBS\nianv4aNagp8zwHMrK5OHb2M3oku5tyXGRnqs7+VOhtBe3tLJz8XGXHTdgn/hVh6N\nVAD5wr3txDtxB9pVePpOE3alQ8OpdZHz4ZIHWOkPGfftf+0+El7dCGvVMzcFf/iH\nFfgneEexiQKBgBa3BwA1D+QjW9GDDSWJThEsUOaHkgIKEpEO8j15DmB/wI9c+B03\nFROIW//uFOR78oBhV1fzOgHCHA/LPUN+EiwGnGDrD7MH5qnnE6OnB63tziMTTrz3\nKvCc7xjEMukS/ginWtGd03I37NzQ6yrFrhZB97Eh267y/hnSE2x4o6kNAoGAc6YX\niCOFWYU4/0BWl/hXFrLO6bSJqjhsEOMh1eVCX3QJBGDBAE+mSQVyPTvEHjXqF532\nCkml/kZNssrbFxFtzEdaCIl0RMX5zMPrFOocHaxas383dslxdscYY2DfHoMF5yta\nxnAP6UTTPb6Gk/+EcfhLsa8kMW3RnkXUK0j8h+kCgYEAr1favbogeC0SafpOOM1h\nsxkx66+VA62QZHEb71FiFcVVW6iq4k964mZ5Bp2resZQwcVWiFNIBeEhMqrHtqbf\nXCJUnYaEXN+b80rP5p66sEYOHA40yNN4DQfBHerz2/GBbUPG6VKUt0DYRL+Z4OxJ\n+ZfMSWP4YcFq6ddScUtWB24=\n-----END PRIVATE KEY-----\n",
+  "client_email": "redsocialpoli-255923@appspot.gserviceaccount.com",
+  "client_id": "114802962783020623380",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/redsocialpoli-255923%40appspot.gserviceaccount.com"
+}
